@@ -1,0 +1,22 @@
+i. Assignment statement "=" in Python is the statement which assign the RHS of the code to the LHS. 
+   RHS can be any combination of code such as summation between a and b but LHS can only be a single variable. 
+
+
+    Example: 
+
+    a_int = 7 
+    b_int = a_int 
+
+    In the example above a_int is being assigned to the value stored in b_int. 
+
+    Example: 
+    a_int = b_int + 7 (valid)
+    a_int + 7 = b_int (Error)
+
+    
+
+
+ii. In interpreted language, the code is run or interpreted line by line while compiled language will compiled the
+    whole code before running as an output. In interpreted language, it is slower compared to the compiled language. 
+
+
